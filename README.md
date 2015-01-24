@@ -37,4 +37,4 @@ To get you started, the first 14 bytes of the packets are Ethernet, information 
 If want to compare the files main.c corresponds to main.py. The basic jist is to set up sockets for the 'int' and 'ext' ethernet interfaces of the
 virtual machine and then send packets from 'int' to 'ext' and vice versa to achieve connectivity.
 
-![Alt text](/images/firewall-framework.png?raw=true)
+![Alt text](/firewall-framework.png?raw=true)
