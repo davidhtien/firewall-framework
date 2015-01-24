@@ -31,3 +31,5 @@ Preferable is to process the packets in C though it is more tedious.
 
 If want to compare the files main.c corresponds to main.py. The basic jist is to set up sockets for the 'int' and 'ext' ethernet interfaces of the
 virtual machine and then send packets from 'int' to 'ext' and vice versa to achieve connectivity.
+
+![alt tag](https://lh4.googleusercontent.com/uZrItQ-uo3_G5ixJglWYlc2UH_fz0CNYfwdF0WE31Rbp6nAwHA9uVI95AP8miut2IybossdtE_s=w1342-h539)
