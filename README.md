@@ -3,10 +3,13 @@
 A translation from Python to C of the framework for my firewall project from my networking class.
 
 To try out this code download this VM from: https://drive.google.com/file/d/0Bwor7RzmbQy7THFLQ0FDaGN2WjA/view?usp=sharing.
+
 Make sure you have VirtualBox installed (version 4.3 or higher suggested) and import the VM (don't change anything configurations!)
 
 Once the VM is running login with
+
 username: cs168
+
 password: F1rewa!!
 
 open the terminal and run
