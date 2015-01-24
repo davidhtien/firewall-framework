@@ -22,7 +22,7 @@ This will give you access to the internet
 
 At this point you can either
 
-1. install git and then clone this repog
+1. install git and then clone this repo
 2. or just download the files from https://drive.google.com/file/d/0Bwor7RzmbQy7VHMwSldwZGRXUlk/view?usp=sharing
 
 cd into the folder where the files are and run
