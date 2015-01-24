@@ -19,7 +19,7 @@ This will give you access to the internet
 
 At this point you can either
 
-1. install git and then clone this repo
+1. install git and then clone this repog
 2. or just download the files from https://drive.google.com/file/d/0Bwor7RzmbQy7VHMwSldwZGRXUlk/view?usp=sharing
 
 cd into the folder where the files are and run
@@ -37,4 +37,4 @@ To get you started, the first 14 bytes of the packets are Ethernet, information 
 If want to compare the files main.c corresponds to main.py. The basic jist is to set up sockets for the 'int' and 'ext' ethernet interfaces of the
 virtual machine and then send packets from 'int' to 'ext' and vice versa to achieve connectivity.
 
-![alt tag](https://lh4.googleusercontent.com/uZrItQ-uo3_G5ixJglWYlc2UH_fz0CNYfwdF0WE31Rbp6nAwHA9uVI95AP8miut2IybossdtE_s=w1342-h539)
+![Alt text](/images/firewall-framework.png?raw=true)
